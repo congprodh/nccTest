@@ -1,0 +1,40 @@
+.content {
+    text-align: center;
+    padding: 0 5%;
+    overflow: scroll;
+    margin-bottom: 60px;
+}
+
+.logo {
+    display: block;
+    margin: 30px auto;
+    width: 20%;
+}
+
+.paragraph {
+    background-color: #EFEFEF;
+    padding: 10px 10%;
+}
+
+.drop-cap-container {
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.drop-cap-container div {
+    width: 30%;
+}
+
+.drop-cap {
+    float: left;
+    width: 128px;
+    height: 128px;
+}
+
+.drop-cap img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
